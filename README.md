@@ -14,4 +14,5 @@ The landing page of the router.
 
 We will be using the router as a Repeater to set up the WAN via the University's Captive Portal-protected wifi. To connect, select <b>Scan</b>.
 
-<img width="336" alt="Screenshot 2023-02-08 at 7 11 36 AM" src="https://user-images.githubusercontent.com/30426256/217388156-d4ec9415-ffee-4f8a-8c44-e8c9ec3e244b.png">
+<img width="336" alt="Screenshot 2023-02-08 at 7 11 36 AM" src="https://user-images.githubusercontent.com/30426256/217389078-136eccbc-f068-4cd5-b0b0-1c6ef640ce6e.png">
+
