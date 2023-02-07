@@ -8,3 +8,5 @@ Using your favourite browser, go to http://foobar or http://byteme. You should b
 
 Enter the password
 
+<img width="1301" alt="Screenshot 2023-02-08 at 7 08 05 AM" src="https://user-images.githubusercontent.com/30426256/217387541-15965961-1af9-456c-b02f-8fa42bfb9600.png">
+
