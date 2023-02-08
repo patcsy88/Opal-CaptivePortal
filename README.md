@@ -16,3 +16,15 @@ We will be using the router as a Repeater to set up the WAN via the University's
 
 <img width="336" alt="Screenshot 2023-02-08 at 7 11 36 AM" src="https://user-images.githubusercontent.com/30426256/217389078-136eccbc-f068-4cd5-b0b0-1c6ef640ce6e.png">
 
+The router will scan for all 'visible' wifi and display in a drop down list.
+
+<img width="1310" alt="Screenshot 2023-02-08 at 7 58 26 AM" src="https://user-images.githubusercontent.com/30426256/217394650-e3953997-7ac1-4966-b451-a3e804f76e17.png">
+
+List of 'visible' wifi.
+
+<img width="1303" alt="Screenshot 2023-02-08 at 8 00 33 AM" src="https://user-images.githubusercontent.com/30426256/217394689-0d9090db-205c-4f7a-9eb6-08933edc3316.png">
+
+Select the University wifi that will provide Internet access.
+
+<img width="1296" alt="Screenshot 2023-02-08 at 7 59 04 AM" src="https://user-images.githubusercontent.com/30426256/217394770-fc7dbdac-fb7f-49ee-9851-62becc8fd3e9.png">
+
