@@ -29,4 +29,8 @@ Select the University wifi that will provide Internet access.
 
 <img width="1296" alt="Screenshot 2023-02-08 at 7 59 04 AM" src="https://user-images.githubusercontent.com/30426256/217394770-fc7dbdac-fb7f-49ee-9851-62becc8fd3e9.png">
 
-You should see a similar page when the Internet wifi is properly connected.
+You should see a similar page when the Internet wifi is associated. At this point, the University Captive Portal login page may pop up. If not, connect your favourite smarthphone to the LAN wifi and it should pop up.
+
+Login using the appropriate credentials.
+
+You should now be able to browse the Internet.
