@@ -25,7 +25,7 @@ The router will scan for all 'visible' wifi and display in a drop down list.
 <img width="1303" alt="Screenshot 2023-02-08 at 8 00 33 AM" src="https://user-images.githubusercontent.com/30426256/217394689-0d9090db-205c-4f7a-9eb6-08933edc3316.png">
 
 List of 'visible' wifi.
-Select the University wifi that will provide Internet access.
+Select the University wifi that will provide Internet access. You may see for the same SSID, one with 5G next to it, preferably select the one without the 5G to potentially increase stability via radio separation on the Opal router.
 
 <img width="1296" alt="Screenshot 2023-02-08 at 7 59 04 AM" src="https://user-images.githubusercontent.com/30426256/217394770-fc7dbdac-fb7f-49ee-9851-62becc8fd3e9.png">
 
