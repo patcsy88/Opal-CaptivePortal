@@ -2,7 +2,9 @@
 
 Set Up
 
-Using your favourite browser, go to http://foobar or http://byteme. You should be greeted with the login page of the router.
+Connect to the LAN wifi - <b>Wi-Fi Fo Fum</b> or <b>LAN Down Under</b>
+
+Using your favourite browser, go to http://foobar (Wi-Fi Fo Fum) or http://byteme (LAN Down Under). You should be greeted with the login page of the router.
 
 <img width="606" alt="Screenshot 2023-02-08 at 7 03 29 AM" src="https://user-images.githubusercontent.com/30426256/217387082-7f6e884e-6109-4fe2-82da-f65b9396c02b.png">
 
@@ -28,3 +30,4 @@ Select the University wifi that will provide Internet access.
 
 <img width="1296" alt="Screenshot 2023-02-08 at 7 59 04 AM" src="https://user-images.githubusercontent.com/30426256/217394770-fc7dbdac-fb7f-49ee-9851-62becc8fd3e9.png">
 
+You should see a similar page when the Internet wifi is properly connected.
